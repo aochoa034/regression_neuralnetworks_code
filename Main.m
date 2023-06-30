@@ -33,7 +33,7 @@ P3 = regression(n3,x_training,training_set,"logistic",0.1,500);
 % n1 = 4; n2 = 6; n3 = 9;
 %  
 % % Models
-% [P1,output1] = regression(n1,x_training,training_set,"relu",0.1,500);  %%MIRAR CON 400
+% [P1,output1] = regression(n1,x_training,training_set,"relu",0.1,500); 
 % [P2,output2]= regression(n2,x_training,training_set,"relu",0.1,500);
 % [P3,output3] = regression(n3,x_training,training_set,"relu",0.1,500);
 
